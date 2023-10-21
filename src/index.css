@@ -1,0 +1,54 @@
+body{
+  background-color:black;
+  color:yellow;
+}
+ .header{
+  padding:0px 400px;
+  margin-top:100px;
+ display:flex;
+ justify-content:space-between;
+} 
+.typing{
+  margin-top:32px;
+  display:flex;
+  justify-content:space-between;
+  padding:0px 400px;
+}
+button{
+  background-color:black;
+  color:yellow;
+  border:none;
+}
+.text-box{
+  margin-top:5px;
+  padding:0px 400px;
+}
+.name{
+  margin-bottom:200px;
+}
+.stats{
+  text-align:center;
+  margin-bottom:50px;
+}
+.first{
+  background-color:yellow;
+  color:black;
+  border-radius:30px;
+  margin-right:5px;
+}
+.some{
+  padding:0px 400px;
+  display:flex;
+  justify-content:space-between;
+}
+.select{
+  background-color:yellow;
+  color:black;
+}
+.good{
+  display:flex;
+  gap:5px;
+}
+.good a{
+  text-decoration:none;
+}
